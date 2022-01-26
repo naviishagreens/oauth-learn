@@ -1,0 +1,3 @@
+<Project>
+  <Import Project="Globals\Nuget\Nuget.Extern.Versions.targets"/>
+</Project>

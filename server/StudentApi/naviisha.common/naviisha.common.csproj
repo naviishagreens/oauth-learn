@@ -6,8 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-    <ItemGroup>
-	    <PackageReference Include="Faker.Net" Version="2.0.154" />
-    </ItemGroup>
+  <Import Project="..\Globals\netcore.props" />
+
+  <!-- <ItemGroup>
+    <Content Include="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup> -->
+
+  <ItemGroup>
+    <PackageReference Include="Faker.Net" Version="2.0.154" />
+  </ItemGroup>
 
 </Project>

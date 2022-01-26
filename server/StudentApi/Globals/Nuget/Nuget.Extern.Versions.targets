@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <!-- <PackageReference Update="Microsoft.Extensions.DependencyInjection" Version="[5.0.1]" />
+    <PackageReference Update="Microsoft.Extensions.DependencyInjection.Abstractions" Version="[5.0.0]" /> -->
+  </ItemGroup>
+</Project>
